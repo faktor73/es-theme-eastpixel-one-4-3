@@ -1,0 +1,174 @@
+<!--
+theme name:		eastpixel-one-4-3
+version:		1.0.0
+author:			eastpixel.de
+email:			contact@eastpixel.de
+-->
+
+<theme>
+    <formatVersion>4</formatVersion>
+	
+	<variables>
+		<colorPurple>3c137c</colorPurple>
+		<colorYellow>ffde06</colorYellow>
+		<themeFolderArt>./_eastpixel</themeFolderArt>
+		<themeFolderLogos>./_eastpixel/systems</themeFolderLogos>
+		<themeFontLight>${themeFolderArt}/Kanit-Light.ttf</themeFontLight>
+		<themeFontMedium>${themeFolderArt}/Kanit-Medium.ttf</themeFontMedium>
+	</variables>
+
+	<view name="system">
+		
+		<image name="background" extra="true">
+			<color>${colorPurple}</color>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>./_eastpixel/box.png</path>
+			<size>1 1</size>
+			<tile>true</tile>
+		</image>
+		
+		<image name="centerfade" extra="true">
+			<color>${colorYellow}</color>
+		</image>
+		
+		<helpsystem name="help">
+			<fontPath>${themeFontLight}</fontPath>
+			<fontSize>0.028</fontSize>
+			<iconColor>${colorYellow}</iconColor>
+			<pos>0.02 0.956</pos>
+			<textColor>${colorYellow}</textColor>
+		</helpsystem>
+		
+		<image name="logo">
+			<path>${themeFolderLogos}/${system.theme}.svg</path>
+		</image>
+		
+		<carousel name="systemcarousel">
+			<color>${colorPurple}</color>
+			<size>1 0.22</size>
+			<logoSize>0.16 0.09</logoSize>
+			<logoScale>2.2 2</logoScale>
+		</carousel>
+		
+		<text name="systemInfo">
+			<backgroundColor>${colorPurple}</backgroundColor>
+			<color>${colorYellow}</color>
+			<fontSize>0.030</fontSize>
+			<fontPath>${themeFontLight}</fontPath>
+			<pos>0.010 0.620</pos>
+			<size>0.980 0.050</size>
+		</text>
+		
+	</view>
+	
+	<view name="basic, detailed">
+		
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
+			<color>393a3b</color>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>${themeFontLight}</fontPath>
+			<fontSize>0.03</fontSize>
+			<size>1 1</size>
+			<pos>1 1</pos>
+		</text>
+		
+		<text name="md_developer, md_publisher, md_genre, md_players, md_playcount, md_description">
+			<color>393a3b</color>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>${themeFontLight}</fontPath>
+			<fontSize>0.03</fontSize>
+			<size>0.14 0.04</size>
+			<pos>1 1</pos>
+		</text>
+		
+		<helpsystem name="help">
+			<textColor>${colorYellow}ff</textColor>
+			<iconColor>${colorYellow}ff</iconColor>
+			<fontPath>${themeFontLight}</fontPath>
+			<fontSize>0.028</fontSize>
+			<pos>0.02 0.956</pos>
+		</helpsystem>
+		
+		<datetime name="md_releasedate, md_lastplayed">
+			<color>393a3b</color>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>${themeFontLight}</fontPath>
+			<fontSize>0.03</fontSize>
+			<size>0 0.04</size>
+			<pos>1 1</pos>
+		</datetime>
+		
+		<image name="background">
+			<color>${colorPurple}</color>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 1</size>
+			<path>./_eastpixel/box.png</path>
+		</image> 
+		
+		<image name="header" extra="true">
+			<color>${colorPurple}</color>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 0.16</size>
+		</image>
+		
+		<image name="footer" extra="true">
+			<color>${colorPurple}</color>
+			<pos>0 1</pos>
+			<origin>0 1</origin>
+			<size>1 0.065</size>
+		</image>
+		
+		<image name="logo">
+			<pos>0.5 0.03</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<path>./_eastpixel/systems/${system.theme}.svg</path>
+		</image>
+		
+	</view>
+	
+	<view name="basic">
+		
+		<textlist name="gamelist">
+			<selectorColor>${colorYellow}</selectorColor>
+			<selectedColor>${colorPurple}</selectedColor>
+			<primaryColor>${colorYellow}</primaryColor>
+			<secondaryColor>${colorYellow}</secondaryColor>
+			<fontPath>${themeFontLight}</fontPath>
+			<fontSize>0.028</fontSize>
+			<forceUppercase>0</forceUppercase>
+			<pos>0.025 0.18</pos>
+			<size>0.950 0.73</size>
+			<alignment>center</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>
+		
+	</view>
+	
+	<view name="detailed">
+		
+		<textlist name="gamelist">
+			<selectorColor>${colorYellow}</selectorColor>
+			<selectedColor>${colorPurple}</selectedColor>
+			<primaryColor>${colorYellow}</primaryColor>
+			<secondaryColor>${colorYellow}</secondaryColor>
+			<fontPath>${themeFontLight}</fontPath>
+			<fontSize>0.028</fontSize>
+			<forceUppercase>0</forceUppercase>
+			<pos>0.520 0.28</pos>
+			<size>0.380 0.50</size>
+			<alignment>left</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+		</textlist>	
+		
+		<image name="md_image">
+			<pos>0.30 0.53</pos>
+			<maxSize>0.500 0.501</maxSize>
+			<origin>0.5 0.5</origin>
+		</image>
+		
+	</view>
+	
+</theme>
