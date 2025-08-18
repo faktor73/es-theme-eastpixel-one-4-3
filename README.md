@@ -26,7 +26,10 @@ The ideal settings are as follows:
 
 ### Screenshots
 
-Screenshots will follow soon.
+![Splash Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-splash.png)
+![System Select Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-system.png)
+![Game List Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-gamelist.png)
+![Settings Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-settings.png)
 
 
 ### Used software from other sources
