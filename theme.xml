@@ -1,6 +1,6 @@
 <!--
 theme name:		eastpixel-one-4-3
-version:		1.0.0
+version:		1.0.1
 author:			eastpixel.de
 email:			contact@eastpixel.de
 -->
@@ -9,7 +9,7 @@ email:			contact@eastpixel.de
     <formatVersion>4</formatVersion>
 	
 	<variables>
-		<colorPurple>3c137c</colorPurple>
+		<colorPurple>883a8a</colorPurple>
 		<colorYellow>ffde06</colorYellow>
 		<themeFolderArt>./_eastpixel</themeFolderArt>
 		<themeFolderLogos>./_eastpixel/systems</themeFolderLogos>
