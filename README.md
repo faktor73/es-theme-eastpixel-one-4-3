@@ -1,5 +1,5 @@
 # EASTPIXEL ONE (4:3)
-### An EmulationStation/RetroPie theme in aspect ration 4:3
+### An EmulationStation/RetroPie theme in aspect ratio 4:3
 
 ## About
 
