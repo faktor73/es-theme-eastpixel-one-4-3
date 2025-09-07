@@ -1,5 +1,5 @@
 # EASTPIXEL ONE (4:3)
-### An EmulationStation/RetroPie theme in aspect ration 4:3
+### An EmulationStation/RetroPie theme in aspect ratio 4:3
 
 ## About
 
@@ -27,7 +27,14 @@ After installation, simply select the theme in the ‘UI Settings’ of Emulatio
 - On-Screen Help: On
 
 
-## Screenshots
+## Two main colours
+
+- One: Berry (HEX: 883a8a, RGB: 136/58/138)
+- Second: Yellow (HEX: ffde06, RGB: 255/222/6)
+
+
+
+## Screenshots (old colour scheme)
 
 ![Splash Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-splash.png)
 ![System Select Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-system.png)
