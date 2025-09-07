@@ -64,7 +64,7 @@ email:			contact@eastpixel.de
 	
 	<view name="basic, detailed">
 		
-		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
+		<text name="md_lbl_rating, md_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
 			<color>393a3b</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>${themeFontLight}</fontPath>
@@ -126,6 +126,10 @@ email:			contact@eastpixel.de
 			<maxSize>0.55 0.1</maxSize>
 			<path>./_eastpixel/systems/${system.theme}.svg</path>
 		</image>
+		
+		<rating name="md_rating">
+			<pos>2 2</pos>
+		</rating>
 		
 	</view>
 	
