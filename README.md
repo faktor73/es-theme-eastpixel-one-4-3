@@ -46,3 +46,4 @@ After installation, simply select the theme in the ‘UI Settings’ of Emulatio
 
 - Font: Kanit, SIL Open Font License, Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)
 - System Logos: some system logos are based on the work of @anthonycaccese
+- System Logos (Arcade + FBNEO Arcade) are made by me
