@@ -36,10 +36,10 @@ After installation, simply select the theme in the ‘UI Settings’ of Emulatio
 
 ## Screenshots (old colour scheme)
 
-![Splash Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-splash.png)
-![System Select Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-system.png)
-![Game List Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-gamelist.png)
-![Settings Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-settings.png)
+![Splash Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-splash_v101.png)
+![System Select Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-system_v101.png)
+![Game List Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-gamelist_v101.png)
+![Settings Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-settings_v101.png)
 
 
 ### Used software from other sources
