@@ -34,7 +34,7 @@ After installation, simply select the theme in the ‘UI Settings’ of Emulatio
 
 
 
-## Screenshots (old colour scheme)
+## Screenshots
 
 Please note: The bootscreen is not part of the theme. If you really like to use it (with my brand), just download it here.
 
