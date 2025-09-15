@@ -36,6 +36,8 @@ After installation, simply select the theme in the ‘UI Settings’ of Emulatio
 
 ## Screenshots (old colour scheme)
 
+Please note: The bootscreen is not part of the theme. If you really like to use it (with my brand), just download it here.
+
 ![Splash Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-splash_v101.png)
 ![System Select Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-system_v101.png)
 ![Game List Screen](https://www.eastpixel.de/files/es-theme-eastpixel-one-4-3-gamelist_v101.png)
